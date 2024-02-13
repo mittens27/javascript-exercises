@@ -1,4 +1,6 @@
-const fibonacci = function() {
+const fibonacci = function(loc) {
+    for (i = 0; i = loc; i++)
+        
 
 };
 
